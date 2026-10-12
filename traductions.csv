@@ -1,0 +1,70 @@
+key;de;en;fr
+add;Hinzufügen;Add;Ajouter
+analyze_file;Datei analysieren;Analyze a file;Analyser un fichier
+cancel;Abbrechen;Cancel;Annuler
+cant_extract;Text konnte nicht aus Datei extrahiert werden.;Unable to extract text from file.;Impossible d'extraire le texte du fichier.
+choose_dest_folder;Richtungordner wählen;Choose destination folder;Choisir le dossier de destination
+choose_keyword;Schlüsselwort wählen;Choose keyword;Choisir un mot-clé
+choose_scan_folder;Scan Ordner wählen;Choose directory to sort;Choisir le dossier à scanner
+click_to_add_keyword;klicke hier, um das gewähltes Schlüsselwort hinzuzufügen;click to add the selected keyword;Cliquez pour ajouter le mot-clé sélectionné
+click_to_add_rule;Klicke hier, um diese neue Regel hinzuzufügen;click me to add this new rule;Cliquez pour ajouter cette nouvelle règle de tri
+click_to_analyze_file;klicke hier, um Schlüsselwörter aus einer Datei vorzuschlagen;click me to suggest keywords from a file;Cliquez pour suggérer des mots-clés à partir d'un fichier
+click_to_choose_folder;klicke hier, um den zu sortierenden Ordner auszuwählen;click here to choose the folder to sort;Cliquez pour choisir un dossier
+click_to_select_destination;klicke hier, um den Zielordner für das neue Schlagwort auszuwählen;click to select destination folder for the new keyword;Cliquez pour choisir un dossier de destination
+click_to_start_scan;klicke hier, um den Ordner zu sortieren;click to sort the folder;Cliquez pour le trier du dossier
+client_numbers;Kundennummern:;Client numbers:;Numéros client :
+completed;Abgeschlossen! Dauer: %s;Completed! Duration: %s;Terminé ! Durée : %s
+create_rule_tab;Regel erstellen;Create rule;Créer règle
+dictionary_not_found;Französisches Wörterbuch (%s) nicht gefunden!;French dictionary (%s) not found!;Dictionnaire français (%s) non trouvé !
+dont_show_again;Nicht mehr anzeigen;Don't show again;Ne plus afficher
+duplicate_keywords;Doppelte Schlüsselwörter;Duplicate keywords !;Mots-clés en doublon !
+emails;E-Mails:;Emails:;Emails :
+enter_keyword;Bitte Schlüsselwort eingeben!;Please enter keyword!;Veuillez saisir un mot-clé !
+enter_keyword_here;Neues Schlüsselwort eingeben;Enter new keyword;Saisissez un nouveau mot-clé
+files_moved_message;Verschiebung(en) durchgeführt;Move(s) completed;Déplacement(s) effectué(s)
+files_to_be_moved_message;Die folgenden Dateien werden verschoben:\n\n%s;The following files will be moved:\n\n%s;Les fichiers suivants seront déplacés :\n\n%s
+files_to_be_moved_title;Dateien werden verschoben;Files to be moved;Fichiers à déplacer
+folder_to_scan;Zu scannender Ordner:;Folder to scan:;Dossier à scanner :
+keywords_added;Regel %s hinzugefügt => verschieben nach %s;Rule %s added => move to %s;Règle %s ajoutée => déplacer dans %s
+keyword_conflict_message;Das Schlüsselwort „%s“ steht im Konflikt mit bestehenden Regeln:\n\n%s\n\nEin Dokument, das diese Wörter enthält, würde mehreren Regeln entsprechen, und es wäre unklar, welche angewendet werden soll.\n\nDiese Regel trotzdem hinzufügen?;The keyword “%s” conflicts with existing rules:\n\n%s\n\nA document containing these words would match several rules and it would be unclear which one to apply.\n\nConfirm adding this rule?;Le mot-clé « %s » est en conflit avec des règles existantes :\n\n%s\n\nUn document contenant ces mots correspondrait à plusieurs règles, et on ne saurait pas laquelle appliquer.\n\nConfirmer l'ajout de cette règle ?
+keyword_add_cancelled;Hinzufügen der Regel abgebrochen;Rule addition cancelled;Ajout de la règle annulé
+keywords_order_conflict;Reihenfolgenkonflikt mit %s;Order conflict with %s;Conflit d'ordre avec %s
+keywords_used;Wortgruppe %s wird bereits verwendet, die Regel wird nicht hinzugefügt;The set of words %s is already in use, rule will not be added;L'ensemble de mots %s est déjà utilisé, la règle ne sera pas ajoutée
+keywords_subset;Die neue Regel %s wird nach der bestehenden Regel %s geprüft;The new %s rule will be evaluated after the existing %s rule;La nouvelle règle %s sera testée après la règle %s existante
+keywords_superset;Die neue Regel %s wird vor der bestehenden Regel %s geprüft;The new %s rule will be evaluated before the existing %s rule;La nouvelle règle %s sera testée après la règle %s existante
+keywords_disjoint;Diese Gruppe von Schlüsselwörtern ist disjunkt zu allen bereits verwendeten Gruppen;This keyword set is disjoint from all already used keyword sets;Cet ensemble de mots-clés est disjoint de tous les ensembles de mots-clés déjà utilisés
+keywords_intersect;Diese Gruppe von Schlüsselwörtern schneidet sich mit einer bereits verwendeten Gruppe;This keyword set intersects with an already used keyword set;Cet ensemble de mots-clés intersecte avec un ensemble de mots-clés déjà utilisé
+keywords_error;Fehler beim Verarbeiten der Schlüsselwörter!;Error while processing keywords!;Erreur lors du traitement des mots-clés !
+keywords_found;Gefundene Schlüsselwörter:;Keywords found:;Mots-clés trouvés :
+menu_file;Datei;File;Fichier
+menu_language;Sprache;Language;Langue
+new_keyword;Erforderliche Schlüsselwörter (durch Semikolons trennen);Keywords that must be present (separate with semicolons);Mots-clés devant être présents (séparer par des points-virgule)
+new_rule;Neue Regel eingeben;Create a new rule;Créer une nouvelle règle
+no_files_found;Keine Dateien im Ordner gefunden;No files found in folder;Aucun fichier trouvé dans le dossier
+no_french_dict;Französisches Wörterbuch nicht gefunden!;French dictionary not found!;Dictionnaire français non trouvé !
+no_keywords;Keine Schlüsselwörter gefunden;No keywords found;Aucun mot-clé trouvé
+no_scan_folder;Scan-Ordner existiert nicht!;Scan folder does not exist!;Le dossier à scanner n'existe pas !
+ok;OK;OK;OK
+phone_numbers;Telefonnummern:;Phone numbers:;Numéros de téléphone :
+please_enter_dest;Bitte Ordner wählen !;Please choose folder!;Choisir un dossier !
+please_enter_keyword;Bitte Schlüsselwort einfügen !;Please enter keyword !;Choisir un mot-clé !
+processing_file;Verarbeite: %s;Processing: %s;Traitement de : %s
+progress_title;Fortschritt;Progress;Progression
+proper_names;Eigennamen:;Proper names:;Noms propres :
+quit;Beenden;Quit;Quitter
+ribs;RIBs:;RIBs:;RIBs :
+scan;Scannen;Scan;Scanner
+scan_cancelled;Scan abgebrochen;Scan cancelled;Scan annulé
+scan_folder;Ordner verarbeiten;Scan a folder;Traiter un dossier
+scan_tab;Ordner scannen;Scan folder;Scanner dossier
+processing_folder;Ordner wird gescannt...;Processing folder...;Scan du dossier en cours...
+select_dest;Bitte Zielordner auswählen!;Please select destination folder!;Veuillez sélectionner un dossier de destination !
+select_dest_folder;Zielordner wählen;Choose destination folder;Choisir le dossier de destination
+select_file;Datei auswählen:;Select a file;Choisir un fichier
+select_keyword;Dieses Schlüsselwort hinzufügen;Add this keyword;Ajouter ce mot-clé
+select_scan_folder;Ordner wählen;Select folder;Choisir le dossier
+unknown_folder;Unbekannter Ordner !;folder does not exist !;Le dossier à scanner n'existe pas !
+urls;URLs:;URLs:;URLs :
+welcome_greeting;Hallo;Hello;Bonjour
+welcome_title;Willkommen;Welcome;Bienvenue
+window_title;Dokumentensortierer;Document Sorter;Tri de documents
